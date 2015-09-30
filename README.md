@@ -1,5 +1,7 @@
 # mongoose-auto-number
 
+[![npm version](https://badge.fury.io/js/mongoose-auto-number.svg)](http://badge.fury.io/js/mongoose-auto-number)
+
 This plugin can be used to auto increment any number field in a schema.
 
 ## Installation
