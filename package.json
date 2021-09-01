@@ -1,6 +1,6 @@
 {
     "name": "mongoose-auto-number",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Mongoose plugin to auto increment numeric field",
     "main": "lib/index.js",
     "scripts": {
@@ -25,6 +25,7 @@
     ],
     "peerDependencies": {
         "async": "^2.3.0",
+        "dot-prop": "^6.0.1",
         "mongoose": "^5.x"
     }
 }
